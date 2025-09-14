@@ -213,12 +213,12 @@ function App() {
               <div className="text-lg text-gray-400 leading-relaxed font-light grid md:grid-cols-2 gap-8">
                 <div>
                   <h3 className="font-bold text-xl text-white mb-2 tracking-wider">ACADEMIC FOUNDATION</h3>
-                  <p className="mb-4">Hailing from Bhanupratappur, Chhattisgarh, my academic journey began at Jawahar Navodaya Vidyalaya, Kanker. I graduated as the class topper, securing a 3rd district position in the CBSE board.</p>
-                  <ul className="list-none space-y-1">
+                  <p className="mb-4">Hailing from Bhanupratappur, Chhattisgarh, my academic journey began at Jawahar Navodaya Vidyalaya, Kanker. I graduated as the school topper.</p>
+                  {/* <ul className="list-none space-y-1">
                       <li><span className="text-amber-400 font-semibold">Physics:</span> 95/100</li>
                       <li><span className="text-amber-400 font-semibold">Chemistry:</span> 92/100</li>
                       <li><span className="text-amber-400 font-semibold">Maths:</span> 98/100</li>
-                  </ul>
+                  </ul> */}
                 </div>
                  <div>
                   <h3 className="font-bold text-xl text-white mb-2 tracking-wider">PASSIONS & PURSUITS</h3>
